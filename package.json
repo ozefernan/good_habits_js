@@ -19,9 +19,9 @@
   "author": "Oseas Fernandes <oseasfernandes15@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/renecold/jscourse/issues"
+    "url": "https://github.com/renecold/jsmonstro/issues"
   },
-  "homepage": "https://github.com/renecold/jscourse#readme",
+  "homepage": "https://github.com/renecold/jsmonstro#readme",
   "devDependencies": {
     "eslint": "^5.3.0",
     "eslint-config-airbnb": "^17.1.0",
